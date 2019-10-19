@@ -1,7 +1,6 @@
 # Título
 
-Notas e códigos dos estudos
-
+Notas e códigos de estudo
 ![Banner para o curso/livro](https://via.placeholder.com/1280x640.png)
 
 [URL oficial do curso/livro](#)
