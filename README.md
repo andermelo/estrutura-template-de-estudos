@@ -5,7 +5,7 @@ Notas e códigos de estudo
 
 [URL oficial do curso/livro](#)
 
-### Sumário
+## Sumário
 
 1. [Recursos utilizados](#recursos-utilizados)
 1. [Referência bibliográfica](#referência-bibliográfica)
